@@ -1,1 +1,2 @@
 Abrindo o terminal, instale o vagrante usando "apt install vagrant.
+Depois de baixado, rodar "vagarnt init" para criar o vagrant.
