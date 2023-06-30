@@ -1,6 +1,11 @@
 Abrindo o terminal, instale o vagrante usando "apt install vagrant.
+
 Depois de baixado, rodar "vagarnt init" para criar o vagrant.
-Precisamos subir o vagrant, mas com uma vm box
-Irei criar na home do meu usuário (root) um diretório chamado “projetos” onde irei criar os diretórios que as minhas vms irão ficar, e também o diretório CentOS7 para criar a nossa primeira vm em CentOS 7 usabdo "# mkdir -p /root/projetos/CentOS7"
+
+Precisamos subir o vagrant, mas com uma vm box.
+
+Irei criar na home do meu usuário (root) um diretório chamado “projetos” onde irei criar os diretórios que as minhas vms irão ficar, e também o diretório CentOS7 para criar a nossa primeira vm em CentOS 7 usabdo "mkdir -p /root/projetos/CentOS7"
+
 para entrar no repositório usei "# cd ~/projetos/CentOS7/"
-Podendo subir o vagrant, usei o "# vagrant init centos/7" para subir com vm box.
+
+Usei o "# vagrant init centOS7" para criar o primeiro vagrant com vm box.
